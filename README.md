@@ -11,3 +11,7 @@ For instructions [view the README.md](basic/README.md)
 ## Secured node
 The relay node runs a websocket secured by your pre-generated SSL certificate. 
 For instructions [view the README.md](secured/README.md)
+
+## Testnet node
+The testnet node runs a plain text websocket and unsecured admin version against the test network. 
+For instructions [view the README.md](testnet/README.md)
